@@ -1,5 +1,13 @@
 ## HW-10 SQLAlchemy
 
+### If you want to Run PostgreSQL instead of SQLite,
+
+#### Run docker container and "engine" configruation at both Jupyter notebook and app.py need to be changed accordingly.
+
+- docker-compose up -d
+
+  - PostgreSQL runs at "http://localhost:54320"
+
 ### Climate Analysis and Exploration
 
 #### Precipitation Analysis
